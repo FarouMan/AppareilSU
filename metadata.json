@@ -1,0 +1,6 @@
+{
+  "name": "KernPulse",
+  "description": "Gestion d'interface système et diagnostic avancé du noyau Android (Linux 4.19.325) avec support Root et Material You.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

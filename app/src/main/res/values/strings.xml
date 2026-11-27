@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KernPulse</string>
+    <string name="nav_dashboard">Diagnostic</string>
+    <string name="nav_kernel">Noyau 4.19</string>
+    <string name="nav_interface">Interface</string>
+    <string name="nav_logs">Journaux</string>
+    <string name="action_refresh">Actualiser</string>
+    <string name="action_share_report">Exporter le diagnostic</string>
+    <string name="action_test_root">Tester Root (su)</string>
+    <string name="root_granted_label">ROOT UID 0 ACTIF</string>
+    <string name="root_denied_label">MODE LECTURE SEULE</string>
+    <string name="kernel_419_target_badge">Profil Kernel 4.19.325</string>
+</resources>
